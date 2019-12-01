@@ -1,22 +1,21 @@
-# StoreProducts
 program to store products 
 
-#Database 
+Database 
 mysql
 you must have database with name (products)
 database have table (product)
 table include four column (id , name , number ,price)
 
 
-#Language 
+Language 
 javafx , css
 
-#Function
+Function
 insert , delete , update ,search
 
-#Concept
+Concept
 OOP , MVC , singleton
 
 
-#Note
+Note
  i build app to learn mvc & singleton
